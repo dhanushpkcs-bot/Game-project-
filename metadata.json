@@ -1,0 +1,5 @@
+{
+  "name": "Cricket Pro Engine",
+  "description": "A professional cricket match simulator with real-time commentary, complex ball logic, and dual innings gameplay.",
+  "requestFramePermissions": []
+}
